@@ -443,5 +443,9 @@
   "toast_invalidMFAState": "Ongeldig MFA-status",
   "tab_media": "Media",
   "label_transitionMedias": "Transities Media",
-  "label_taskMedias": "Tâches Media"
+  "label_taskMedias": "Tâches Media",
+  "label_pleaseAllowLocation": "Vă rugăm să permiteți permisiunea de localizare pentru a continua",
+  "err_unableToStartEnvironmentService": "Serviciul de mediu nu a putut fi inițializat. Vă rugăm să încercați din nou.",
+  "label_currentLocationNotAvailable": "Locația curentă nu este disponibilă, vă rugăm să încercați din nou mai târziu.",
+  "err_serverError": "A apărut o eroare de server. Vă rugăm să încercați din nou mai târziu."
 }

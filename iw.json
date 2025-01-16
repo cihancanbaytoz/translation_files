@@ -501,5 +501,9 @@
     "toast_invalidMFAState": "מצב MFA שגוי",
     "tab_media": "מדיה",
     "label_transitionMedias": "מעברים מדיה",
-    "label_taskMedias": "משימות מדיה"
+    "label_taskMedias": "משימות מדיה",
+    "label_pleaseAllowLocation": "אנא אפשר הרשאת מיקום כדי להמשיך",
+    "err_unableToStartEnvironmentService": "לא ניתן היה לאתחל את שירות הסביבה. אנא נסה שוב.",
+    "label_currentLocationNotAvailable": "המיקום הנוכחי אינו זמין, אנא נסה שוב מאוחר יותר.",
+    "err_serverError": "אירעה שגיאת שרת. אנא נסה שוב מאוחר יותר."
 }

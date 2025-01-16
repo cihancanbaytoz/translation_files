@@ -501,5 +501,9 @@
   "toast_invalidMFAState": "État MFA invalide",
   "tab_media": "Médias",
   "label_transitionMedias": "Transitions Médias",
-  "label_taskMedias": "Tâches Médias"
+  "label_taskMedias": "Tâches Médias",
+  "label_pleaseAllowLocation": "Veuillez autoriser l'accès à la localisation pour continuer",
+  "err_unableToStartEnvironmentService": "Le service d'environnement n'a pas pu être initialisé. Veuillez réessayer.",
+  "label_currentLocationNotAvailable": "La localisation actuelle n'est pas disponible, veuillez réessayer plus tard.",
+  "err_serverError": "Une erreur de serveur s'est produite. Veuillez réessayer plus tard."
 }

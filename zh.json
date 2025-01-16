@@ -543,5 +543,9 @@
     "toast_invalidMFAState": "MFA 状态无效",
     "tab_media": "媒体",
     "label_transitionMedias": "过渡媒体",
-    "label_taskMedias": "任务媒体"
+    "label_taskMedias": "任务媒体",
+    "label_pleaseAllowLocation": "请允许位置权限以继续",
+    "err_unableToStartEnvironmentService": "环境服务无法初始化。请再试一次。",
+    "label_currentLocationNotAvailable": "当前位置不可用，请稍后再试。",
+    "err_serverError": "发生服务器错误。请稍后再试。"
 }

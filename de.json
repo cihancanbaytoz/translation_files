@@ -501,5 +501,9 @@
   "toast_invalidMFAState": "Ungültiger MFA Status",
   "tab_media": "Medien",
   "label_transitionMedias": "Übergang Medien",
-  "label_taskMedias": "Aufgaben Medien"
+  "label_taskMedias": "Aufgaben Medien",
+  "label_pleaseAllowLocation": "Bitte erlauben Sie die Standortfreigabe, um fortzufahren",
+  "err_unableToStartEnvironmentService": "Der Umgebungsdienst konnte nicht initialisiert werden. Bitte versuchen Sie es erneut.",
+  "label_currentLocationNotAvailable": "Der aktuelle Standort ist nicht verfügbar, bitte versuchen Sie es später erneut.",
+  "err_serverError": "Ein Serverfehler ist aufgetreten. Bitte versuchen Sie es später erneut."
 }

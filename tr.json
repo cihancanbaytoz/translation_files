@@ -509,5 +509,9 @@
     "toast_invalidMFAState": "MFA durum geçersiz",
     "tab_media": "Medya",
     "label_transitionMedias": "Geçiş Medyaları",
-    "label_taskMedias": "Görev Medyaları"
+    "label_taskMedias": "Görev Medyaları",
+    "label_pleaseAllowLocation": "Devam etmek için lütfen konum izni verin",
+    "err_unableToStartEnvironmentService": "Çevre hizmeti başlatılamadı. Lütfen tekrar deneyin.",
+    "label_currentLocationNotAvailable": "Geçerli konum kullanılamıyor, lütfen daha sonra tekrar deneyin.",
+    "err_serverError": "Sunucu hatası oluştu. Lütfen daha sonra tekrar deneyin."
 }

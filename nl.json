@@ -501,5 +501,9 @@
     "toast_invalidMFAState": "Ongeldig MFA-status",
     "tab_media": "Media",
     "label_transitionMedias": "Transities Media",
-    "label_taskMedias": "Taken Media"
+    "label_taskMedias": "Taken Media",
+    "label_pleaseAllowLocation": "Sta locatiepermissie toe om door te gaan",
+    "err_unableToStartEnvironmentService": "De omgevingsservice kon niet worden geïnitialiseerd. Probeer het opnieuw.",
+    "label_currentLocationNotAvailable": "Huidige locatie is niet beschikbaar, probeer het later opnieuw.",
+    "err_serverError": "Er is een serverfout opgetreden. Probeer het later opnieuw."
 }
