@@ -1,5 +1,5 @@
 {
-    "err_wrongCredentials": "Yanlış kullanıcı adı veya şifre, lütfen tekrar deneyin",
+    "err_wrongCredentials": "Yanlış kullanıcı adı veya şifre, lütfen tekrar deneyin!",
     "button_no": "Hayır",
     "button_yes": "Evet",
     "button_login": "Giriş",
